@@ -13,6 +13,8 @@
 </p>
 
 [![alt text][2.1]][2]
+
+[![alt text][3.1]][3]
 [![alt text][6.1]][6]
 
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
