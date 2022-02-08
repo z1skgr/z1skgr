@@ -8,19 +8,15 @@
 - ⚡ Fun fact **I think i am funny**
 
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
 [![alt text][6.1]][6]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
+</p>
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-</p>
-
-[3]: https://www.linkedin.com/in/christos-ziskas-1b683822b/
 [2]: https://www.facebook.com/ZiskTheName/
 [6]: https://github.com/z1skgr
 
