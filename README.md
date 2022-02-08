@@ -13,16 +13,13 @@
 </p>
 
 [![alt text][2.1]][2]
-
-[![alt text][3.1]][3]
 [![alt text][6.1]][6]
 
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)]
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 [2]: https://www.facebook.com/ZiskTheName/
-[3]: https://www.linkedin.com/in/christos-ziskas-1b683822b/
+
 [6]: https://github.com/z1skgr
 
 <h3 align="left">Languages and Tools:</h3>
