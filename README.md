@@ -23,6 +23,6 @@
 
 <h3 align="left">My Github Stats</h3>
 <p align="left">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=z1skgr&show_icons=true&theme=tokyonight)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=z1skgr&show_icons=true&theme=tokyonight)
 </p>
 
