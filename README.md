@@ -14,6 +14,7 @@
 <a href="https://www.linkedin.com/in/christos-ziskas-1b683822b\" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christos-ziskas-1b683822b/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ZiskTheName" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ZiskTheName" height="30" width="40" /></a>
 <a href="https://www.instagram.com/christosziskas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/christosziskas" height="30" width="40" /></a>
+  <a href="https://discord.gg/https://discord.gg/CqVQ8j8wmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CqVQ8j8wmm" height="30" width="40" /></a>
 </p>
 
 
