@@ -7,6 +7,10 @@
 
 - ⚡ Fun fact **I think i am funny**
 
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 [1.1]: 
