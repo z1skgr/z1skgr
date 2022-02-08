@@ -7,11 +7,12 @@
 
 - ⚡ Fun fact **I think i am funny**
 
-[![alt text][2.1]][2]
-[![alt text][6.1]][6]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  [![alt text][2.1]][2]
+[![alt text][6.1]][6]
 
 </p>
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
