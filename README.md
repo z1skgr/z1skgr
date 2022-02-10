@@ -24,7 +24,5 @@
 
 <h3 align="left">GitHub stats: </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1skgr&layout=compact)](https://github.com/z1skgr/github-readme-stats)
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=z1skgr&show_icons=true&theme=radical)
 
