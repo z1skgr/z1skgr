@@ -23,4 +23,6 @@
 
 
 <h3 align="left">GitHub stats: </h3>
-https://github-readme-stats.vercel.app/api?username=z1skgr&theme=dark&show_icons=true
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=z1skgr&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=z1skgr&langs_count=5&theme=tokyonight)]()
