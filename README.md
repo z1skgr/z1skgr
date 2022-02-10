@@ -26,5 +26,5 @@
  
  `dark` ![dark][dark_repo]
 
-[dark]: https://github-readme-stats.vercel.app/api?username=z1skgr&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
+[dark]: https://github-readme-stats.vercel.app/api?username=czisk&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
 
