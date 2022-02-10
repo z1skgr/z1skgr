@@ -23,6 +23,9 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+
+```md
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z1skgr&theme=dark&show_icons=true)
+```
 
 
