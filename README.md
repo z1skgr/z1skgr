@@ -24,5 +24,5 @@
 
 <h3 align="left">GitHub stats: </h3>
 
-![merko]https://github-readme-stats.vercel.app/api/pin/?username=z1skgr&repo=github-readme-stats&cache_seconds=86400&theme=merko
+![Github stats]https://github-readme-stats.vercel.app/api/pin/?username=z1skgr&repo=github-readme-stats&cache_seconds=86400&theme=merko
 
