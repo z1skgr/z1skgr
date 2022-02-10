@@ -23,8 +23,6 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
- 
- `dark` ![dark][dark_repo]
 
-[dark]: https://github-readme-stats.vercel.app/api?username=czisk&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=czisk&repo=github-readme-stats)](https://github.com/czisk/github-readme-stats)
 
