@@ -23,9 +23,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+ 
+ `dark` ![dark][dark_repo]
 
-```md
-![z1skgr's GitHub stats](https://github-readme-stats.vercel.app/api?username=z1skgr&theme=dark&show_icons=true)
-```
-
+[dark]: https://github-readme-stats.vercel.app/api?username=z1skgr&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
 
