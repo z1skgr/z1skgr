@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **cziskas@isc.tuc.gr**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I think i have exceptional sense of humor**
 
 
 
