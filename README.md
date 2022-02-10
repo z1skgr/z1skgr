@@ -23,4 +23,4 @@
 
 
 <h3 align="left">GitHub stats: </h3>
-[gruvbox]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox
+[gruvbox]: https://github-readme-stats.vercel.app/api?username=z1skgr&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox
