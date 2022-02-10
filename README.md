@@ -29,6 +29,6 @@
 
 
 <h3 align="left">Languages: </h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1skgr&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1skgr)](https://github.com/anuraghazra/github-readme-stats)
 
 
