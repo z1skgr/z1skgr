@@ -30,6 +30,6 @@
 
 <h3 align="left">Languages: </h3>
 
-![alt](https://github-language-stats.vercel.app/api/top-langs?username=z1skgr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1skgr&langs_count=8&layout=compact)](https://github.com/z1skgr/github-readme-stats)
 
 
