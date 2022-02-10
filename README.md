@@ -29,6 +29,6 @@
 
 
 <h3 align="left">Languages: </h3>
-![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/z1skgr/github-stats/blob/master/generated/languages.svg)
 
 
