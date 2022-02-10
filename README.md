@@ -29,6 +29,6 @@
 
 
 <h3 align="left">Languages: </h3>
-![](https://github.com/z1skgr/github-stats/blob/master/generated/languages.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1skgr&theme=tokyonight)
 
 
