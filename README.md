@@ -23,6 +23,6 @@
 
 
 <h3 align="left">GitHub stats: </h3>
-
-![Github stats]https://github-readme-stats.vercel.app/api/pin/?username=z1skgr&repo=github-readme-stats&cache_seconds=86400&theme=merko
+`merko` ![merko][merko]
+![Github stats] https://github-readme-stats.vercel.app/api?username=z1skgr&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
 
