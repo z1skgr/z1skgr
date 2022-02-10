@@ -23,6 +23,5 @@
 
 
 <h3 align="left">GitHub stats:</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z1skgr&repo=github-readme-stats)](https://github.com/z1skgr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1skgr&layout=compact)](https://github.com/z1skgr/github-readme-stats)
 
