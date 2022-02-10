@@ -26,3 +26,7 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=z1skgr&count_private=true&theme=tokyonight&showicons=true)]()
 
+
+<h3 align="left">Languages: </h3>
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+
