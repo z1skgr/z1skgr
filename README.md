@@ -23,7 +23,7 @@
 
 
 <h3 align="left">GitHub stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1skgr&layout=compact)](https://github.com/z1skgr/github-readme-stats)
 </h3>
 
 
