@@ -1,12 +1,12 @@
 <h1 align="center">Hi , I'm Christos Ziskas</h1>
-<h3 align="center">A passionate engineer from Greece</h3>
+<h3 align="center">A happy engineer from Greece :octocat:</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/z1skgr](https://github.com/z1skgr)
 
 - 📫 How to reach me **cziskas@isc.tuc.gr**
 
-- ⚡ Fun fact **I think i have exceptional sense of humor**
-
+- ⚡ Fun fact **I think i have exceptional sense of humor** <br>
+-  :balloon: I like tunes, especially Looney Tunes 
 
 
 <h3 align="left">Connect with me:</h3>
