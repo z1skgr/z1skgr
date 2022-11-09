@@ -137,4 +137,4 @@
 </td></tr></table>  
 
 
-<img src="https://raw.githubusercontent.com/z1skgr/z1skgr/blob/output/snake.svg" alt="generate-snake-game-from-github-contribution-grid" />
+<img src="https://raw.githubusercontent.com/z1skgr/z1skgr/7cebd1a1ab7967af25118a10d88a48b97b31c02a/images/github-user-contribution.svg" alt="generate-snake-game-from-github-contribution-grid" />
