@@ -17,8 +17,8 @@
 - 📫 How to reach me **cziskas@isc.tuc.gr**
 
 - ⚡ Fun fact **I think i have exceptional sense of humor** <br>
--  :balloon: I like tunes, especially Looney Tunes and I use tabs over spaces
-
+-  :balloon: I like tunes, especially Looney Tunes  
+-  :balloon: I use tabs over spaces
 ###
 
 
@@ -29,7 +29,7 @@
   <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+ <a href="https://www.youtube.com/channel/UCyDkbKI8N25oDG7SrBz2JJw" target="blank">  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="https://www.youtube.com/channel/UCyDkbKI8N25oDG7SrBz2JJw"  />
  <a href="https://www.instagram.com/christosziskas" target="blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="https://www.instagram.com/christosziskas"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
  <a href="https://discord.gg/https://discord.gg/CqVQ8j8wmm" target="blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="https://discord.gg/CqVQ8j8wmm"  />
