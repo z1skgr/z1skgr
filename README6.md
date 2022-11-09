@@ -135,3 +135,6 @@
    
 
 </td></tr></table>  
+
+
+<img src="https://raw.githubusercontent.com/z1skgr/z1skgr/blob/output/snake.svg" alt="Snake animation" />
