@@ -106,8 +106,9 @@
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="35" width="47" alt="embeddedc logo"  />
 
+  <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/630187336cd3e89bbf0aa262_f2730ac0.png" height="35" width="47" alt="embeddedc logo"  />
 
-</div>
+   </div>
     </td><td valign="top" width="33%">
 
   ### Software
