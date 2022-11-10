@@ -154,8 +154,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" width="47" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="47" alt="python logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="47" alt="java logo"  />
-  <img src="![image](https://user-images.githubusercontent.com/22920222/200972067-ac381ef7-e646-4667-8060-e4b7eb1d4ece.png)
-" height="35" width="47" alt="delphi logo"  />
+ <img src="https://img.icons8.com/color/48/null/delphi-ide.png" height="35" width="47" alt="delphi logo"  />
 
 ###
 
