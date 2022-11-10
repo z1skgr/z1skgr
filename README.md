@@ -29,13 +29,13 @@
   <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="left">
-   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
- <a href="https://www.youtube.com/channel/UCyDkbKI8N25oDG7SrBz2JJw" target="blank">  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="https://www.youtube.com/channel/UCyDkbKI8N25oDG7SrBz2JJw"  />
+   <img src="https://www.twitch.tv/z1skgr" height="35" alt="twitch logo"  />
+ <a href="https://www.youtube.com/channel/UCyDkbKI8N25oDG7SrBz2JJw" target="blank">  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube logo"  />
  <a href="https://www.instagram.com/christosziskas" target="blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="https://www.instagram.com/christosziskas"  />
- <a href="https://discord.gg/https://discord.gg/CqVQ8j8wmm" target="blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="https://discord.gg/CqVQ8j8wmm"  />
+ <a href="https://discord.gg/https://discord.gg/CqVQ8j8wmm" target="blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="Discord logo"  />
 
- <a href="https://www.linkedin.com/in/christos-ziskas-1b683822b\" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="https://www.linkedin.com/in/christos-ziskas-1b683822b/"  />
- <a href="https://www.facebook.com/ZiskTheName" target="blank"> <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="https://www.facebook.com/ZiskTheName"  />
+ <a href="https://www.linkedin.com/in/christos-ziskas-1b683822b\" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin logo"  />
+ <a href="https://www.facebook.com/ZiskTheName" target="blank"> <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo"  />
 <!--  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
@@ -47,6 +47,7 @@
    
  <div align="left">
  <img src="https://raw.githubusercontent.com/z1skgr/z1skgr/7cebd1a1ab7967af25118a10d88a48b97b31c02a/images/github-user-contribution.svg" height="150" alt="generate-snake-game-from-github-contribution-grid" />
+
    </div>
    
 
