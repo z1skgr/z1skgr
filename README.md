@@ -1,16 +1,17 @@
 <h2 align="left">Hi 👋! My name is Christos Ziskas and I'm an ECE from Greece</h2>
 
-###
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=z1skgr" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=z1skgr" height="150" alt="languages graph"  />
+
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" height="250" width="800" alt="languages graph"  />
 </div>
 
 ###
 
-###
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
+
+
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/z1skgr](https://github.com/z1skgr)
 
@@ -169,5 +170,14 @@
    
 
 </td></tr></table>  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=z1skgr" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=z1skgr" height="150" alt="languages graph"  />
+</div>
+     
+     
+
+
 
 
