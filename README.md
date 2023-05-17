@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/z1skgr](https://github.com/z1skgr)
 
-- 📫 How to reach me **cziskas@isc.tuc.gr**
+- 📫 How to reach me **cziskas@tuc.gr**
 
 - ⚡ Fun fact **I think i have exceptional sense of humor** <br>
 -  :balloon: I like tunes, especially Looney Tunes  
