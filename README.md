@@ -35,7 +35,7 @@
  <a href="https://www.instagram.com/christosziskas" target="blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="https://www.instagram.com/christosziskas"  />
  <a href="https://discord.gg/https://discord.gg/CqVQ8j8wmm" target="blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="Discord logo"  />
 
- <a href="https://www.linkedin.com/in/christos-ziskas-1b683822b\" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin logo"  />
+ <a href="https://linkedin.com/in/christos-ziskas-1b683822b" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin logo"  />
  <a href="https://www.facebook.com/ZiskTheName" target="blank"> <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo"  />
 <!--  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
@@ -76,6 +76,7 @@
 ### Backend  
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="47" alt="nodejs logo"  />
+  
 
 </div>
 
@@ -99,6 +100,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="35" width="47" alt="webflow logo"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" width="47" alt="arduino logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" width="47" alt="canva logo"  />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="35" width="47" alt="webflow logo"  />
 
 </div>
   
@@ -122,6 +124,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" width="47" alt="intellij logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35" width="47" alt="pycharm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" width="47" alt="visualstudio logo"  />
+
 
 </div>
     
