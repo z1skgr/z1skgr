@@ -100,7 +100,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="35" width="47" alt="webflow logo"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" width="47" alt="arduino logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" width="47" alt="canva logo"  />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="35" width="47" alt="webflow logo"  />
+
 
 </div>
   
