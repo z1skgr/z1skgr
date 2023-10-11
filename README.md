@@ -19,7 +19,8 @@
 
 - ⚡ Fun fact **I think i have exceptional sense of humor** <br>
 -  :balloon: I like tunes, especially Looney Tunes  
--  :balloon: I use tabs over spaces
+-  💓 I use tabs over spaces
+-  🚩Learn about me on [z1skgr.github.io/](https://z1skgr.github.io/)
 ###
 
 
@@ -57,7 +58,6 @@
   
   ### Frontend  
 <div align="center">   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" width="47" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="35" width="47" alt="jquery logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="47" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" width="47" alt="redux logo"  />
