@@ -53,8 +53,7 @@
    </div>
    
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## My Skill Set  <table><tr><td valign="top" width="33%">
   
   ### Frontend  
 <div align="center">   
@@ -86,13 +85,14 @@
 <div align="center">  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" width="47" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="47" alt="git logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="35" width="47" alt="ansible logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="35" width="47" alt="ansible logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" width="47" alt="aws logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="35" width="47" alt="elastic logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="35" width="47" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" width="47" alt="flask logo"  />
-</div>  
 
+</div>  
+     </tr><td valign="top" width="33%">
 
   ### Other  
 <div align="center">  
@@ -103,7 +103,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="35" width="47" alt="webflow logo"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" width="47" alt="arduino logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" width="47" alt="canva logo"  />
-
 <img src="images/gns3.png"  height="35" width="47" alt="gns3 logo">
 <img src="images/confluense.png"  height="35" width="47" alt="confluense logo">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="35" width="47" alt="wordpress logo"  />
