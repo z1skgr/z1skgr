@@ -15,7 +15,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/z1skgr](https://github.com/z1skgr)
 
-- 📫 How to reach me **cziskas@tuc.gr**
+- 📫 How to reach me **cziskas@tuc.gr** <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **cziskas@gmail.com**
+                      
 
 - ⚡ Fun fact **I think i have exceptional sense of humor** <br>
 -  :balloon: I like tunes, especially Looney Tunes  
@@ -47,11 +48,10 @@
 </div>
 
    
- <div align="left">
- <img src="https://raw.githubusercontent.com/z1skgr/z1skgr/7cebd1a1ab7967af25118a10d88a48b97b31c02a/images/github-user-contribution.svg" height="150" alt="generate-snake-game-from-github-contribution-grid" />
 
-   </div>
-   
+![Snake](https://raw.githubusercontent.com/z1skgr/z1skgr/output/github-contribution-grid-snake.svg)
+
+
 
 ## My Skill Set  <table><tr><td valign="top" width="33%">
   
