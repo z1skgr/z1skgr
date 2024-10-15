@@ -102,4 +102,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1skgr&langs_count=8&layout=compact)](https://github.com/z1skgr/github-readme-stats)
 
+<h3 align="left">Look this snake animation </h3>
+
+![Snake](https://raw.githubusercontent.com/z1skgr/z1skgr/output/github-contribution-grid-snake.svg)
+
+For more information about snake animation check [here](https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd733)
 
